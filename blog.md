@@ -9,6 +9,4 @@ layout: default
 
 {{ post.date | date: "%B %d, %Y" }}
 
-{{ post.excerpt }}
-
 {% endfor %}
