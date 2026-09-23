@@ -2,8 +2,8 @@
 layout: default
 ---
 # Thorn
-[blog](blog.md)
+[blog](blog.md)\
 
-Socials
-Discord: Kazetar
+Socials\
+Discord: Kazetar\
 [Youtube](https://www.youtube.com/@MinimallyFunny)
