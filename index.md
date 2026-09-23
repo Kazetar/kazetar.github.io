@@ -4,5 +4,6 @@ layout: default
 # Thorn
 [blog](blog.md)
 
-#### Socials
+Socials
 Discord: Kazetar
+[Youtube](https://www.youtube.com/@MinimallyFunny)
