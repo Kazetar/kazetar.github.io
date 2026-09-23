@@ -2,7 +2,8 @@
 layout: default
 title: Thorn
 ---
+# Thorn
 [blog](blog.md)
 
-### Socials
+#### Socials
 Discord: Kazetar
