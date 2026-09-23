@@ -2,7 +2,7 @@
 layout: default
 ---
 # Thorn
-[blog](/blog/)
+[blog](blog.md)
 
 Socials\
 Discord: Kazetar\
